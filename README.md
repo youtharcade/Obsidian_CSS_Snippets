@@ -1,3 +1,4 @@
 These are the different Snippets I've either found or created. If I found it I'll give credit where credit is due.
 
 [ff-window.css](https://github.com/youtharcade/Obsidian_CSS_Snippets/blob/main/snippets/ff-windows.css) is a recreation of FFVIII's window for use as a callout.
+<img width="1564" height="218" alt="5932" src="https://github.com/user-attachments/assets/3450a85f-4821-4daa-bfd9-47fe129f5643" />
